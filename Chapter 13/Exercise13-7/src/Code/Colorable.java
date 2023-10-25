@@ -1,0 +1,6 @@
+package Code;
+
+public interface Colorable 
+{
+	public abstract String howToColor ();
+}
