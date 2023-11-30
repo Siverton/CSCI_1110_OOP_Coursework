@@ -1,0 +1,8 @@
+MG-21 2500 250 1.9 Standard_Missiles
+SV-37 2700 300 2.1 Standard_Multilock_Missiles
+F-4 2500 250 1.9 Standard_Missiles
+F-16 2500 225 2.1 Standard_ATG_Missiles
+MG-31 3600 300 2.5 Semi-Active_Missiles
+MG-29 2900 250 2.2 Long_Range_Missiles
+SK.37 3200 225 3.1 Standard_Missiles
+SP-34R 2500 250 2.2 Guns_Only
